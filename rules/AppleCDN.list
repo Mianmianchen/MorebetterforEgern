@@ -25,3 +25,6 @@ DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,app-site-association.cdn-apple.com
+# Push
+DOMAIN-KEYWORD,push-apple
+DOMAIN-KEYWORD,push.apple
