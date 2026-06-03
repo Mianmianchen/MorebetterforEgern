@@ -1,0 +1,62 @@
+# 更新日期20260602
+# 本规则为iOS中需要代理的域名
+# 来源：https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/surgio-snippet/apple.tpl
+
+# App Store
+DOMAIN,apps.apple.com
+DOMAIN,api-edge.apps.apple.com
+DOMAIN,api.apps.apple.com
+# 软件更新
+DOMAIN,xp.apple.com
+# 苹果服务
+DOMAIN,bag.itunes.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,se-edge.itunes.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,upp.itunes.apple.com
+DOMAIN,beta.music.apple.com
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+# Apple Intelligence
+DOMAIN,apple-relay.apple.com
+DOMAIN,guzzoni.apple.com
+# iTunes
+DOMAIN-SUFFIX,hls.itunes.apple.com
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN,cdn.apple-cloudkit.com
+# Developer
+DOMAIN,devimages-cdn.apple.com
+DOMAIN,devstreaming-cdn.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,docs-assets.developer.apple.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,ocsp.apple.com
+USER-AGENT,com.apple.trustd*
+# Apple News
+USER-AGENT,AppleNews*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,apple.comscoreresearch.com
+# iMessage
+DOMAIN-SUFFIX,ess.apple.com
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,sonos-music.apple.com
+# Configuration
+DOMAIN,configuration.apple.com
+# Others
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,weather-analytics-events.apple.com
+# iCloud 上传和下载
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple-cloudkit.com
