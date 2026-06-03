@@ -1,0 +1,27 @@
+# 更新日期20260603
+# 本规则为iOS中可按需代理的域名，若出现应用商店或系统更新速度缓慢的问题，本规则修改为直连或可解决问题
+# 来源：https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/surgio-snippet/apple.tpl
+# iOS App Store
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,oscdn.apple.com
+# Update
+DOMAIN,supportdownload.apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,appldnld.apple.com.edgesuite.net
+DOMAIN,swcdn.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,updates.cdn-apple.com
+# App Store & iTunes Images
+DOMAIN-SUFFIX,mzstatic.com
+# iOS App Store
+USER-AGENT,com.apple.appstored*
+# iTunes
+DOMAIN,aod.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,apptrailers.itunes.apple.com
+# Other
+DOMAIN,download.developer.apple.com
+DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,app-site-association.cdn-apple.com
