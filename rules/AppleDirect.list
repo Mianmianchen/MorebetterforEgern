@@ -1,0 +1,42 @@
+# Apple 直连
+USER-AGENT,*com.apple.mobileme.fmip1
+# Weather
+USER-AGENT,*WeatherFoundation*
+DOMAIN,weather-data.apple.com
+# Settings
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+# Store
+DOMAIN-SUFFIX,store.apple.com
+# Hotspot captive
+DOMAIN,captive.apple.com
+# Apple Pay
+DOMAIN,smp-device-content.apple.com
+DOMAIN-KEYWORD,smp-device
+USER-AGENT,passd*
+USER-AGENT,Wallet*
+# Reserve
+DOMAIN,reserve-prime.apple.com
+# Push
+DOMAIN-KEYWORD,push-apple
+DOMAIN-KEYWORD,push.apple
+# Asset Cache Locator Service
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+# Caching Server Registration
+DOMAIN,lcdn-registration.apple.com
+DOMAIN,suconfig.apple.com
+DOMAIN,xp-cdn.apple.com
+# Translation
+# See https://github.com/ripperhe/Bob/issues/405
+DOMAIN,sequoia.apple.com
+DOMAIN,seed-sequoia.siri.apple.com
+# Esim激活
+DOMAIN,sq-device.apple.com
+# CN specific
+DOMAIN-KEYWORD,-cn.apple.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,apple.com.cn
