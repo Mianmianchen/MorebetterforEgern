@@ -72,3 +72,5 @@ DOMAIN,audio.itunes.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN,ocvideo.apple.com,
 DOMAIN,gspe1-ssl.ls.apple.com
+# Esim激活
+DOMAIN,sq-device.apple.com
