@@ -1,76 +1,73 @@
 # 更新日期20260602
 # 本规则为iOS中需要代理的域名
 # 来源：https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/surgio-snippet/apple.tpl
-
-# App Store
 DOMAIN,apps.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,bag.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,api.apps.apple.com
-# 软件更新
-DOMAIN,xp.apple.com
-# 苹果服务
-DOMAIN,bag.itunes.apple.com
 DOMAIN,play.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
 DOMAIN,se.itunes.apple.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,su.itunes.apple.com
 DOMAIN,upp.itunes.apple.com
+DOMAIN,uts-api.itunes.apple.com
+DOMAIN,sandbox.itunes.apple.com
 DOMAIN,beta.music.apple.com
+DOMAIN,testflight.apple.com
 DOMAIN-KEYWORD,buy.itunes.apple.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-# Apple Intelligence
 DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,guzzoni.apple.com
-# iTunes
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask.icloud.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+DOMAIN,hls-svod.itunes.apple.com
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN,cdn.apple-cloudkit.com
-# Developer
+DOMAIN,cvws.icloud-content.com
+DOMAIN,developer.apple.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
-DOMAIN,js-cdn.music.apple.com
 DOMAIN,docs-assets.developer.apple.com
+DOMAIN,js-cdn.music.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,ocsp.apple.com
 USER-AGENT,com.apple.trustd*
-# Apple News
 USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
 DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,apple.comscoreresearch.com
-# iMessage
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN,tv.applemusic.com
 DOMAIN-SUFFIX,ess.apple.com
-# Apple Music
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,sonos-music.apple.com
-# Configuration
 DOMAIN,configuration.apple.com
-# Others
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apple
+DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN,weather-analytics-events.apple.com
-# iCloud 上传和下载
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple-cloudkit.com
-# 补充
-DOMAIN-SUFFIX,appsto.re
-DOMAIN,beta.itunes.apple.com
-DOMAIN,books.itunes.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,api-glb-sea.smoot.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,aod.itunes.apple.com
-DOMAIN,audio.itunes.apple.com
-DOMAIN,streamingaudio.itunes.apple.com
-DOMAIN,ocvideo.apple.com,
-DOMAIN,gspe1-ssl.ls.apple.com
-# Esim激活
-DOMAIN,sq-device.apple.com
+DOMAIN-SUFFIX,apple.com
