@@ -60,3 +60,15 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+# 补充
+DOMAIN-SUFFIX,appsto.re
+DOMAIN,beta.itunes.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,ocvideo.apple.com,
+DOMAIN,gspe1-ssl.ls.apple.com
