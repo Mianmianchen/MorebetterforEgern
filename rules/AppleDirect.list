@@ -21,9 +21,6 @@ USER-AGENT,passd*
 USER-AGENT,Wallet*
 # Reserve
 DOMAIN,reserve-prime.apple.com
-# Push
-DOMAIN-KEYWORD,push-apple
-DOMAIN-KEYWORD,push.apple
 # Asset Cache Locator Service
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 # Caching Server Registration
