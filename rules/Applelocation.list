@@ -1,0 +1,18 @@
+#基于定位+代理才可能起作用的域名，单独列出来，若存在问题请走直连
+# Maps
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+# Settings
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+DOMAIN,*.smoot.apple.com
+DOMAIN,*.smoot.apple.cn
+# locationd
+DOMAIN,gs-loc.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN-SUFFIX,ls.apple.com.akadns.net
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+# GeoServices.framework
+DOMAIN-SUFFIX,ls.apple.com
