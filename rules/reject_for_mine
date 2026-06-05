@@ -1,0 +1,5 @@
+# 需要搭配其他广告阻断规则使用，本文件仅做补充
+# update_time:20260605
+
+DOMAIN-SUFFIX,lf-leads-fe-scm.bytecdn.com
+DOMAIN-SUFFIX,lf-reward-video.bytedcdn.com
